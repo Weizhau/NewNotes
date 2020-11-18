@@ -1,0 +1,25 @@
+
+g
+7app/src/main/java/com/example/newnotes/data/NotesDao.kt,4\b\4b44e2d48d9049df4657d49628d1d7bb87f0cac1
+n
+>app/src/main/java/com/example/newnotes/data/NotesRepository.kt,a\2\a2dc5000edc6bddfafa3722c919656b6988da1fc
+m
+=app/src/main/java/com/example/newnotes/data/NotesViewModel.kt,7\a\7a96cd1788ac41d91bc23098917ed18a7921be4f
+l
+<app/src/main/java/com/example/newnotes/data/NotesDatabase.kt,5\5\5590b832ba43a6a172d9d1be39739b34d38d7655
+c
+3app/src/main/java/com/example/newnotes/data/Note.kt,e\4\e42c46a08b3b7ca4a1d3f1bc6f4f18643c303ca7
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+b
+2app/src/main/java/com/example/newnotes/ColorRow.kt,8\f\8fb9750595253badf8468c41c61d0f77efa178fc
+w
+Gapp/src/main/java/com/example/newnotes/adapters/NotesRecyclerAdapter.kt,a\0\a0641228608ef04ddc73d044cedb6b11ff7b2da7
+t
+Dapp/src/main/java/com/example/newnotes/activities/AddNoteActivity.kt,4\d\4d889c1b10aa01912805d6f91cc7adf512b08cb5
+x
+Happ/src/main/java/com/example/newnotes/listeners/OnSwipeTouchListener.kt,d\e\de0c897ab73579169756dd47069b0b8541fca6f2
+q
+Aapp/src/main/java/com/example/newnotes/activities/MainActivity.kt,b\7\b746a8b36d40af7cc9f7930563d1fd2a3fd2ee16

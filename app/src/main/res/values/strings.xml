@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewNotes</string>
+    <string name="title_text">Заголовок</string>
+    <string name="enter_text_text">Введите текст</string>
+    <string name="notes_text">Заметки</string>
+    <string name="note_not_saved_text">Заметка не сохранена</string>
+</resources>

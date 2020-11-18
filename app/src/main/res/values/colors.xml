@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorLightGrey">#FDFDFD</color>
+    <color name="searchStroke">#DFDFDF</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorLightBlue">#2CC3FF</color>
+    <color name="colorLightRed">#FF4B4B</color>
+    <color name="colorGreen">#52FB5B</color>
+    <color name="colorYellow">#FAF145</color>
+    <color name="colorSemiBlack">#333333</color>
+    <color name="colorGrey">#676767</color>
+</resources>
